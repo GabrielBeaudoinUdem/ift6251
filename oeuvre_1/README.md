@@ -1,10 +1,13 @@
-# Installation
+# Ourself
+
+## Installation
 1. Cloner le projet sur votre machine.
 2. Je vous conseille d'utiliser Visual Studio Code pour ouvrir le projet et d'installer l'extension "Live Server" pour lancer le projet.
 3. Une fois installé, cliquez sur le fichier "index.html" avec le bouton droit de la souris et sélectionnez "Open with Live Server".
 4. Vous pouvez changer le programme exécuté en remplaçant le fichier "arrow.js" par "arrow2.js" ou "arrow_album.js" dans le fichier "index.html".
 
-# Explication de la démarche artistique
+## Explication de la démarche artistique
+L'oeuvre s'appelle "Ourself".
 Je lisais les prompts de Genuary 2025. La première ligne disait "Vertical or horizontal lines only." Cela m'a tout de suite parlé. J'ai pensé au début à pourquoi toutes les flèches devraient être dans la même direction, ce qui m'a fait penser que j'allais toutes les mettre dans la même direction sauf une.
 Cette flèche allait pointer vers le haut, me suis-je dit. Je voulais au départ faire disparaître la flèche face à toutes les flèches qui l'écrasaient. Mais quand toutes les flèches étaient noires, c'était moche et trop chargé. J'ai mis les flèches blanches pour vraiment effacer l'autre flèche, car le fond est blanc.
 J'ai ajusté pour que le random soit toujours beau malgré la position, la taille et le nombre de flèches.
