@@ -63,7 +63,6 @@ function draw() {
     }
 
     album_number = int(random(1,1000))
-    // si dans les 100 première album, mais le background gold.
     if(album_number < 100){
         fill(239,191,4)
         draw_fleche_qui_pointe_par_la()
