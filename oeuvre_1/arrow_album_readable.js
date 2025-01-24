@@ -4,7 +4,7 @@ function preload() {
     font = loadFont('./font/vermin-vibes-2-soft-font/VerminVibes2Soft-grr4.ttf');
 }
 
-// Fait le contour de la flèche principale pour pouvoir écraser les flèche qui dépasserais
+// Fait le contour de la flèche principale pour pouvoir écraser les flèches qui dépassent
 function draw_main_arrow() {
     x = width / 2;
     y = height / 2 - height / 5;
@@ -64,7 +64,7 @@ function draw() {
         draw_perpendicular_arrow();
     }
 
-    // si dans les 100 première album, mais le background gold.
+    // si dans les 100 premières albums, met le background en Gold
     album_number = int(random(1,1000))
     if(album_number < 100){
         fill(239,191,4)
@@ -74,7 +74,7 @@ function draw() {
         draw_main_arrow()
     }
 
-    //écrit tous ce qui doit être écrit
+    //écrire tous ce qui doit être écrit
     fill(0);
     textFont(font);
     textSize(128);
