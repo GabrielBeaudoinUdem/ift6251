@@ -1,0 +1,9 @@
+# While there's calculability, there's life
+## Installation
+1. Cloner le projet sur votre machine.
+2. Je vous conseille d'utiliser Visual Studio Code pour ouvrir le projet et d'installer l'extension "Live Server" pour lancer le projet.
+3. Une fois installé, cliquez sur le fichier "index.html" avec le bouton droit de la souris et sélectionnez "Open with Live Server".
+4. Vous pouvez changer le programme exécuté en remplaçant le fichier "arrow.js" par "arrow2.js" ou "arrow_album.js" dans le fichier "index.html".
+
+## Explication de la démarche artistique
+J'ai commencé par créer un Jeu de la vie, puis j'ai ajouté de la couleur et modifié certains éléments pour obtenir quelque chose de spécial. Mais je n'étais pas entièrement satisfait, alors j'ai essayé différentes approches, notamment des variations avec des diffusions dans le Jeu de la vie. Cela donnait un résultat intéressant, mais trop éloigné de l'idée de départ. J'ai ensuite travaillé sur des bulles qui se reproduisent et se déplacent à l'écran. C'était correct, mais j'ai voulu aller plus loin. Finalement, je suis revenu à un concept plus proche du projet initial, car je m'en étais trop éloigné. J'ai donc créé une version du Jeu de la vie avec des caractères, en m'inspirant de la machine utilisée par Turing dans The Imitation Game. Pour accentuer cet effet, j'ai ajouté des flèches tournant de manière aléatoire, ce qui donnait un style visuellement intéressant. Cela me faisait penser à un mots cachés, et c'est là que j'ai décidé d'intégrer le Jeu de la vie classique pour marquer certaines cases en noir, comme dans une grille de mots croisés. J'ai aussi ajouté des sons de machine pour renforcer l'aspect mécanique, ainsi qu'un dézoom progressif, accompagné de bruitages, pour un effet plus théâtral. Au final, j'aime l'idée que le Jeu de la vie, qui est Turing-complet, soit lié aux lettres, ce qui évoque pour moi les mots et le langage en informatique théorique.
